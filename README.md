@@ -64,12 +64,6 @@ Streamlining Restocking for Small Businesses: QuickStock simplifies pharmacy and
 **User Need / Case Study:**  
 Small business owners and pharmacy managers often struggle with fragmented supplier catalogs and time-consuming ordering processes. QuickStock centralizes vendor catalogs, enables easy real-time order editing, and integrates with WhatsApp for quick communications, reducing order errors and saving time.
 
-### 📑 [EZTel Form](https://github.com/Meemkhaan/eztel_form)
-**Description:**  
-A web-based proposal management system for NBN services in Australia, featuring a user-friendly proposal submission form, secure admin panel for plan management, and automated email notifications. Built with PHP, JavaScript, HTML, CSS, and MySQL.
-
-**User Need / Case Study:**  
-Telecom agents and NBN service providers require efficient methods for submitting, managing, and tracking sales proposals. eztel_form allows agents to submit proposals quickly, enables admins to manage plans securely, and keeps all stakeholders informed with automated emails.
 
 ### 🌟 [Brand Spark UK](https://github.com/Meemkhaan/brand-spark-uk)
 **Description:**  
@@ -115,10 +109,10 @@ Developers and small teams needing a simple, self-hosted email solution for noti
 
 ### 📋 [NBN Smart AppForm](https://github.com/Meemkhaan/nbn_smart_appform)
 **Description:**  
-A smart application form system for NBN service providers, built with PHP, JavaScript, and CSS.
+A web-based proposal management system for NBN services in Australia, featuring a user-friendly proposal submission form, secure admin panel for plan management, and automated email notifications. Built with PHP, JavaScript, HTML, CSS, and MySQL.
 
 **User Need / Case Study:**  
-Telecom companies need streamlined customer onboarding. This app enables smart forms, automatic data validation, and efficient backend management for faster application processing.
+Telecom agents and NBN service providers require efficient methods for submitting, managing, and tracking sales proposals. eztel_form allows agents to submit proposals quickly, enables admins to manage plans securely, and keeps all stakeholders informed with automated emails.
 
 ### 📊 [Quick Stock (TS)](https://github.com/Meemkhaan/quick-stock)
 **Description:**  
