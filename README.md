@@ -1,233 +1,212 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8CFF,100:1B1F23&height=200&section=header&text=Hi!%20I'm%20Mukhtiar%20Ahmed%20(Meem%20Khaan)&fontSize=36&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20profile%20👋&descAlignY=60" alt="banner"/>
-</p>
+# 👨‍💻 Mukhtiar Ahmed (Meem Khaan)
+### Full-Stack Developer | Business Solution Architect | Pakistan 🇵🇰
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Meemkhaan&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Meemkhaan?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=flat-square" alt="Focus" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Business+Solution+Architect;Building+Tomorrow's+Applications;Turning+Ideas+Into+Reality" alt="Typing Animation" />
+</div>
 
-## 👋 About Me
-
-Hi, I'm **Mukhtiar Ahmed** — you can call me **Meem Khaan**!
-
-- 💻 Full-stack developer focused on delivering practical solutions for businesses
-- 🛠 I work with **JavaScript, TypeScript, PHP, CSS, HTML, MySQL, and Node.js**
-- 🚀 I specialize in building web apps, inventory solutions, automated email systems, and landing pages
-- 🌏 Based in Pakistan, working on projects for real-world clients and businesses
-- 📫 Reach me at: meem.khaan@gmail.com
-- ⚡ Fun fact: I love turning complex business problems into simple, elegant solutions!
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Meemkhaan&color=4F8CFF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Meemkhaan?label=Followers&style=for-the-badge&color=4F8CFF&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/Projects-15%2B-orange?style=for-the-badge" alt="Projects" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🎯 **About Me**
 
-### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+> **Passionate Full-Stack Developer** transforming complex business challenges into elegant, scalable solutions
 
-### 🎨 Frontend Technologies
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-## 🚩 My Projects: Case Studies & User Needs
-
-### 📦 [QuickStock](https://github.com/Meemkhaan/QuickStock)
-**Description:**  
-Streamlining Restocking for Small Businesses: QuickStock simplifies pharmacy and retail inventory orders with centralized vendor catalogs, real-time editing, and seamless WhatsApp integration.
-
-**User Need / Case Study:**  
-Small business owners and pharmacy managers often struggle with fragmented supplier catalogs and time-consuming ordering processes. QuickStock centralizes vendor catalogs, enables easy real-time order editing, and integrates with WhatsApp for quick communications, reducing order errors and saving time.
-
-
-### 🌟 [Brand Spark UK](https://github.com/Meemkhaan/brand-spark-uk)
-**Description:**  
-Brand Spark UK is designed for modern brand management and marketing automation, leveraging TypeScript for robust, scalable solutions.
-
-**User Need / Case Study:**  
-Brand managers and marketing teams need effective tools to automate and analyze brand activities across digital platforms. This project provides scalable infrastructure for managing campaigns, assets, and analytics in a rapidly changing digital landscape.
-
-### 🛒 [HanguBazaar](https://github.com/Meemkhaan/HanguBazaar)
-**Description:**  
-A multi-vendor e-commerce platform built for local markets, combining PHP, JavaScript, HTML, and CSS.
-
-**User Need / Case Study:**  
-Local vendors and small businesses need an affordable, easy-to-use online marketplace to sell their products. HanguBazaar enables multi-vendor management, product listing, and secure transactions tailored to regional commerce needs.
-
-### 🚗 [Khan's Detailing](https://github.com/Meemkhaan/KhansDetailing)
-**Description:**  
-A digital booking and management system for auto detailing services, featuring PHP and JavaScript.
-
-**User Need / Case Study:**  
-Car detailing businesses require hassle-free scheduling and customer management. KhansDetailing provides a platform to manage appointments, track service history, and communicate with clients seamlessly.
-
-### 🇵🇰 [Pakistan Bazaar](https://github.com/Meemkhaan/pakistan-bazaar)
-**Description:**  
-A scalable e-commerce platform for Pakistani markets, built with TypeScript and PLpgSQL.
-
-**User Need / Case Study:**  
-Local entrepreneurs and businesses need a robust and scalable solution for online selling. pakistan-bazaar offers a feature-rich platform with secure payment integrations and localized features for Pakistani users.
-
-### 📦 [PackFlow Pro](https://github.com/Meemkhaan/packflow-pro)
-**Description:**  
-A professional warehouse and logistics management system leveraging TypeScript and PLpgSQL.
-
-**User Need / Case Study:**  
-Warehouse managers and logistics professionals demand efficient inventory tracking and workflow automation. packflow-pro streamlines inventory, shipment, and tracking processes for high-volume operations.
-
-### 📧 [Email Server Standalone](https://github.com/Meemkhaan/email-server-standalone)
-**Description:**  
-A standalone Node.js-based email server for lightweight, secure email processing.
-
-**User Need / Case Study:**  
-Developers and small teams needing a simple, self-hosted email solution for notifications, transactional messages, or internal communications can deploy this server with minimal overhead.
-
-### 📋 [NBN Smart AppForm](https://github.com/Meemkhaan/nbn_smart_appform)
-**Description:**  
-A web-based proposal management system for NBN services in Australia, featuring a user-friendly proposal submission form, secure admin panel for plan management, and automated email notifications. Built with PHP, JavaScript, HTML, CSS, and MySQL.
-
-**User Need / Case Study:**  
-Telecom agents and NBN service providers require efficient methods for submitting, managing, and tracking sales proposals. eztel_form allows agents to submit proposals quickly, enables admins to manage plans securely, and keeps all stakeholders informed with automated emails.
-
-### 📊 [Quick Stock (TS)](https://github.com/Meemkhaan/quick-stock)
-**Description:**  
-A TypeScript-driven inventory management tool for quick stock adjustments and reporting.
-
-**User Need / Case Study:**  
-Retailers and warehouse staff need real-time tools to update stock levels and generate reports. quick-stock provides a responsive interface for fast inventory adjustments.
-
-### 🧵 [TextileSync-FBR](https://github.com/Meemkhaan/TextileSync-FBR)
-**Description:**  
-A data synchronization and reporting solution for textile businesses, integrating TypeScript and JavaScript.
-
-**User Need / Case Study:**  
-Textile manufacturers and distributors need automated solutions for syncing business data with regulatory systems (like FBR). TextileSync-FBR automates reporting, compliance, and data exchange.
-
-### 📱 [SmartSMS](https://github.com/Meemkhaan/SmartSMS)
-**Description:**  
-Local ISP SMS Distribution App.
-
-**User Need / Case Study:**  
-ISPs and local service providers need a reliable system to send bulk SMS notifications to customers. SmartSMS provides a dedicated platform for managing distribution lists and sending timely alerts.
-
-### 🚪 [SmartGatePass](https://github.com/Meemkhaan/SmartGatePass)
-**Description:**  
-Smart Gate Pass System. A simple and secure web-based application for managing gate passes in industrial and organizational settings. Streamline the generation, tracking, and management of gate passes with an intuitive interface.
-
-**User Need / Case Study:**  
-Facility and security managers need an efficient tool for managing entry and exit permissions. SmartGatePass digitizes gate pass issuance, tracking, and reporting to enhance security and operational transparency.
-
-### ☀️ [Baghbaan Solar Forms](https://github.com/Meemkhaan/baghbaan-solar-forms)
-**Description:**  
-A digital proposal and form management solution for solar providers, built with TypeScript.
-
-**User Need / Case Study:**  
-Solar installation companies require structured, digital workflows for proposals and customer forms. baghbaan-solar-forms automates form submission, approval, and tracking for solar projects.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Meemkhaan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meemkhaan&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meemkhaan&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meemkhaan&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meemkhaan&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-</p>
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meemkhaan&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🎯 What I'm Up To
-
-```javascript
-const meemkhaan = {
-    pronouns: "He/Him",
-    code: ["JavaScript", "TypeScript", "PHP", "Python", "SQL"],
-    askMeAbout: ["web dev", "tech", "app dev", "business automation"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vanilla JS"],
-            css: ["Bootstrap", "Tailwind", "CSS3"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            php: ["Core PHP", "Custom Frameworks"],
-            python: ["Flask", "Django"]
-        },
-        databases: ["MySQL", "PostgreSQL", "MongoDB"],
-        misc: ["Docker", "GitHub Actions", "REST APIs"]
-    },
-    currentFocus: "Building scalable business solutions",
-    funFact: "I debug with console.log and I'm not ashamed! 🐛"
+```typescript
+const developer = {
+  name: "Mukhtiar Ahmed",
+  alias: "Meem Khaan",
+  location: "Pakistan 🇵🇰",
+  experience: "5+ years",
+  specialization: "Full-Stack Development & Business Automation",
+  
+  currentlyWorking: "Building scalable web applications",
+  currentlyLearning: "Advanced TypeScript patterns & Cloud Architecture",
+  openToCollaborate: "Innovative web projects & business solutions",
+  
+  motto: "Code with purpose, build with passion, deliver with excellence"
 };
 ```
 
----
+**🚀 What I Do:**
+- **Full-Stack Development**: End-to-end web applications using modern tech stacks
+- **Business Automation**: Custom solutions that streamline operations and boost productivity  
+- **E-commerce Solutions**: Multi-vendor platforms and inventory management systems
+- **API Development**: RESTful services and microservices architecture
+- **Database Design**: Optimized database structures for high-performance applications
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/meemkhaan">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/meeemk">
-    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:meem.khaan@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Meemkhaan">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+**📧 Let's Connect:** [meem.khaan@gmail.com](mailto:meem.khaan@gmail.com)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8CFF,100:1B1F23&height=120&section=footer" alt="footer"/>
-</p>
+## 🛠️ **Tech Arsenal**
 
-<p align="center">
-  <b>⭐️ From <a href="https://github.com/Meemkhaan">Meemkhaan</a> with ❤️</b>
-</p>
+<details>
+<summary><strong>💻 Programming Languages</strong></summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>🎨 Frontend Technologies</strong></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>⚙️ Backend & Database</strong></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>🔧 DevOps & Tools</strong></summary>
+<br>
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</details>
+
+---
+
+## 🌟 **Featured Projects**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Meemkhaan&repo=QuickStock&theme=tokyonight&border_color=4F8CFF" alt="QuickStock" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Meemkhaan&repo=brand-spark-uk&theme=tokyonight&border_color=4F8CFF" alt="Brand Spark UK" />
+</div>
+
+### 🚀 **Highlighted Solutions**
+
+| Project | Description | Tech Stack | Impact |
+|---------|-------------|------------|---------|
+| **[QuickStock](https://github.com/Meemkhaan/QuickStock)** | 📦 Inventory management system for small businesses | JS, PHP, MySQL | Reduced order processing time by 60% |
+| **[Brand Spark UK](https://github.com/Meemkhaan/brand-spark-uk)** | 🌟 Brand management & marketing automation | TypeScript, Node.js | Automated 80% of brand management tasks |
+| **[HanguBazaar](https://github.com/Meemkhaan/HanguBazaar)** | 🛒 Multi-vendor e-commerce platform | PHP, JavaScript, CSS | Enabled 100+ local vendors to go digital |
+| **[PackFlow Pro](https://github.com/Meemkhaan/packflow-pro)** | 📦 Warehouse & logistics management | TypeScript, PostgreSQL | Improved warehouse efficiency by 45% |
+| **[SmartGatePass](https://github.com/Meemkhaan/SmartGatePass)** | 🚪 Digital gate pass management system | PHP, JavaScript | Enhanced facility security & transparency |
+
+<details>
+<summary><strong>View All Projects (10+ More)</strong></summary>
+
+- **[Khan's Detailing](https://github.com/Meemkhaan/KhansDetailing)** - Auto detailing service management
+- **[Pakistan Bazaar](https://github.com/Meemkhaan/pakistan-bazaar)** - Scalable e-commerce for Pakistani markets  
+- **[Email Server Standalone](https://github.com/Meemkhaan/email-server-standalone)** - Lightweight Node.js email server
+- **[NBN Smart AppForm](https://github.com/Meemkhaan/nbn_smart_appform)** - Telecom proposal management system
+- **[TextileSync-FBR](https://github.com/Meemkhaan/TextileSync-FBR)** - Data sync solution for textile businesses
+- **[SmartSMS](https://github.com/Meemkhaan/SmartSMS)** - ISP SMS distribution app
+- **[Baghbaan Solar Forms](https://github.com/Meemkhaan/baghbaan-solar-forms)** - Solar company form management
+
+</details>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Meemkhaan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=4F8CFF&bg_color=1a1b27" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meemkhaan&layout=compact&langs_count=10&theme=tokyonight&border_color=4F8CFF&bg_color=1a1b27" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meemkhaan&theme=tokyonight&border=4F8CFF&background=1a1b27" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meemkhaan&theme=tokyonight" alt="GitHub Profile Summary" />
+</div>
+
+### 🏆 **Achievements**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Meemkhaan&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
+</div>
+
+### 📈 **Contribution Activity**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meemkhaan&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=4F8CFF&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 💼 **Professional Focus**
+
+```javascript
+const currentStatus = {
+  🔭 workingOn: "Advanced inventory management solutions",
+  🌱 learning: ["Advanced TypeScript", "Cloud Architecture", "Microservices"],
+  👯 collaborateOn: "Innovative web applications & business automation",
+  🤔 helpWith: "Full-stack development, database design, API architecture",
+  💬 askMeAbout: ["React", "Node.js", "PHP", "Database Design", "Business Logic"],
+  📫 reachMe: "meem.khaan@gmail.com",
+  😄 pronouns: "He/Him",
+  ⚡ funFact: "I solve problems with code and coffee ☕"
+};
+```
+
+### 🎯 **Core Competencies**
+
+- **🏗️ Architecture Design**: Scalable application architecture and system design
+- **⚡ Performance Optimization**: Database query optimization and application performance tuning
+- **🔧 Problem Solving**: Complex business logic implementation and troubleshooting
+- **🤝 Client Collaboration**: Requirements gathering and solution design
+- **📱 Responsive Design**: Mobile-first, cross-platform compatible applications
+- **🔒 Security Implementation**: Authentication, authorization, and data protection
+
+---
+
+## 🌐 **Let's Connect & Collaborate**
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meemkhaan)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/meeemk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meem.khaan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meemkhaan)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 **"Great software is built by great teams, but it starts with great developers who care."**
+
+**🚀 Ready to build something amazing together? Let's connect!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn" />
+
+⭐️ **From [Meemkhaan](https://github.com/Meemkhaan)** with passion for code and innovation
+
+</div>
