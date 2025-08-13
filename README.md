@@ -3,28 +3,55 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8CFF,100:1B1F23&height=200&section=header&text=Hi!%20I'm%20Mukhtiar%20Ahmed%20(Meem%20Khaan)&fontSize=36&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20profile%20👋&descAlignY=60" alt="banner"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Meemkhaan&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Meemkhaan?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=flat-square" alt="Focus" />
+</p>
+
 ## 👋 About Me
 
 Hi, I'm **Mukhtiar Ahmed** — you can call me **Meem Khaan**!
 
-- 💻 Full-stack developer focused on delivering practical solutions for businesses.
-- 🛠 I work with **JavaScript, TypeScript, PHP, CSS, HTML, and MySQL**.
-- 🚀 I specialize in building web apps, inventory solutions, automated email systems, and landing pages.
-- 🌏 Based in Pakistan, working on projects for real-world clients and businesses.
+- 💻 Full-stack developer focused on delivering practical solutions for businesses
+- 🛠 I work with **JavaScript, TypeScript, PHP, CSS, HTML, MySQL, and Node.js**
+- 🚀 I specialize in building web apps, inventory solutions, automated email systems, and landing pages
+- 🌏 Based in Pakistan, working on projects for real-world clients and businesses
 - 📫 Reach me at: meem.khaan@gmail.com
+- ⚡ Fun fact: I love turning complex business problems into simple, elegant solutions!
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
-![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=flat&logo=githubactions)
-![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Frontend Technologies
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
@@ -130,24 +157,83 @@ Solar installation companies require structured, digital workflows for proposals
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meemkhaan&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meemkhaan&theme=github-dark" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meemkhaan&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Meemkhaan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meemkhaan&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meemkhaan&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meemkhaan&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Meemkhaan&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+</p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meemkhaan&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🎯 What I'm Up To
+
+```javascript
+const meemkhaan = {
+    pronouns: "He/Him",
+    code: ["JavaScript", "TypeScript", "PHP", "Python", "SQL"],
+    askMeAbout: ["web dev", "tech", "app dev", "business automation"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vanilla JS"],
+            css: ["Bootstrap", "Tailwind", "CSS3"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            php: ["Core PHP", "Custom Frameworks"],
+            python: ["Flask", "Django"]
+        },
+        databases: ["MySQL", "PostgreSQL", "MongoDB"],
+        misc: ["Docker", "GitHub Actions", "REST APIs"]
+    },
+    currentFocus: "Building scalable business solutions",
+    funFact: "I debug with console.log and I'm not ashamed! 🐛"
+};
+```
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/in/meemkhaan)
-[![X](https://img.shields.io/badge/-X-333?style=flat&logo=x)](https://x.com/meeemk)
-[![Email](https://img.shields.io/badge/-Email-333?style=flat&logo=gmail)](mailto:meem.khaan@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/meemkhaan">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/meeemk">
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:meem.khaan@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Meemkhaan">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-<p align="center">Thanks for visiting! ⭐️</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8CFF,100:1B1F23&height=120&section=footer" alt="footer"/>
+</p>
+
+<p align="center">
+  <b>⭐️ From <a href="https://github.com/Meemkhaan">Meemkhaan</a> with ❤️</b>
+</p>
