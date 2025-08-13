@@ -25,6 +25,9 @@ Hi, I'm **Mukhtiar Ahmed** — you can call me **Meem Khaan**!
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=flat&logo=githubactions)
 ![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 
 ---
 
@@ -80,5 +83,16 @@ Inventory management solution, rebuilt with TypeScript for greater safety and sc
 [![Email](https://img.shields.io/badge/-Email-333?style=flat&logo=gmail)](mailto:meem.khaan@gmail.com)
 
 ---
+
+## 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Meemkhaan&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
 
 <p align="center">Thanks for visiting! ⭐️</p>
