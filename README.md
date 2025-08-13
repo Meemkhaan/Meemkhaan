@@ -103,7 +103,7 @@ const developer = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Meemkhaan&repo=QuickStock&theme=tokyonight&border_color=4F8CFF" alt="QuickStock" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Meemkhaan&repo=brand-spark-uk&theme=tokyonight&border_color=4F8CFF" alt="Brand Spark UK" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Meemkhaan&repo=TextileSync-FBR&theme=tokyonight&border_color=4F8CFF" alt="TextileSync-FBR" />
 </div>
 
 ### 🚀 **Highlighted Solutions**
